@@ -1,4 +1,4 @@
-# Skills_Assessments_and_Course_Certificates
+# Skills Assessments and Course Certificates
 This repository includes all of the skills assessments that I have completed as well as the certificates for Udemy courses and AWS trainings.
 
 
